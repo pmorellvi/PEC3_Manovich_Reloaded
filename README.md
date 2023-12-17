@@ -1,18 +1,120 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-Autor: Pablo Morell Vidal 
+Autor: Pablo Morell Vidal  
 
 Fecha: 13/12/2023
 
+https://github.com/mgea/PEC3_Manovich_Reloaded
+
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
+# HIBRIDACION
 
-# stackblitz STACKBLITZ
+Vamos a analizar con las gafas de Manovich dos ejemplos de hibridacion, en este caso [NOTION.SO](https://www.notion.so/) y [MS TEAMS](https://www.microsoft.com/es-es/microsoft-teams/group-chat-software).
 
-Stackblitz es un editor de código online, principalmente usado para editar framework de javascript como pueden ser angular, react y tambien framework de backend como NextJS o ExpressJS en segundos y sin necesidad de registrarte, esta muy bien integrado con **github** ya que puedes publicar un proyecto directamente solo iniciando sesion en github desde la platadorma y tiene un aspecto muy parecido a visual studio code y tambien te permite instalar nuevas dependencias para tu proyecto y tiene por defecto una libreria que detecta los cambios en los archivos y compila solo dicho archivo por lo cual se gana mucha agilidad a la hora de desarrollar ya que el servidor nunca tiene por que apagarse dando mucha facilidad a la hora de programar.
+Notion es un gestor de tareas asi podemos dejar atras las libretas donde llevar las tareas que tienes que hacer, evitando asi quedarnos sin papel u olvidarnos de la misma.
+
+MS Teams la plataforma mas famosa para hacer reuniones que vio su mayor aumento de uso en la pandemia donde el mundo se modernizo y en muchos trabajos se dio la posibilidad de trabajar y la mejor forma para mantener el contacto con los compañeros fue a traves de este tipo de plataformas
+
+# NOTION: La hibridacion de las notas
+Notion es una aplicacion web o aplicacion de escritorio para sistemas Windows o MAC OS que permite la gestion de tareas tanto individual como para equipos.
+La gestion de tareas ha sufrido una gran hibridacion ya que pasamos de tener una libreta con todas las tareas apuntadas a tener todas estas tareas en la red, con la posibilidad de asignarla a una persona estas tarea y poder fijar fecha de vencimiento
+Gracias a los avances que ha sufrido la tecnologia podemos asignar a nuestrar tareas acciones automaticas cuando pase algo con una tarea, por ejemplo, cuando una tareas esta cerca de su fecha de vencimiento y no este completada se mandará una mensaje automaticamente a slack para recordar que esta cerca de su finalizacion o tenemos otras posibilidades añadir campos personalizados a nuestras tareas o etiquetas, pudiando hacer asi filtros.
+A todo esto se le suma la posibilidad de que se puede usar de manera empresarial se paga una licencia y se nos permite que varias personas puedan editar tareas de un mismo tablero y asignar una tarea a una persona en especifico la cual podra añadir comentarios e informas de estado de la tarea actual 
+
+A estar pensado para un entorno empresarial, se puede crear diferentes tipos de tareas.
+
+- Bloques basicos
+	> - Encabezados, Texto, Tabla
+	> - Lista enumerada, Desplegable
+	> - Divisor, Destacado, Enlace a una página
+
+Insertar imagen de bloque basic	
+
+- Contenido Multimedia
+	> - Imagen, Marcador Web, Video
+	> - Audio, Codigo, Archivos
+
+- Base de datos 
+	> - Vista de tabla, Vista de tablero
+	> - Vista de cronograma, Vista de galeria
+	> - Divisor, destacado, enlace a una página
+
+- Inserciones
+	> - Archivos de google drive, Tweet, Figma
+	> - Codepen, Gitlab, Trello
+	> - Adobe XD, Jira y mas
 
 
-# NOTION
+Plantillas
+Para la gestion de tareas nos encontramos tambien la posiblidad de crear plantillas o importarlas de las personas, estas plantillas pueden ser de pago o gratuitas, una vez importadas a tu proyecto se pueden modificar al gusto del equipo o la persona
+
+Tenemos cientos de posibilidad a la hora elegir plantillas
+
+1. Uso profesional
+   - Producto
+     - Especifcaciones del producto
+     - Wiki de producto
+     - Etc
+   - Marketing
+     - Calendario editoria del blog
+     - Resumen de la campaña
+     - Etc
+   - Desarrollo
+     - Especificaciones técnicas de desarrollo
+     - Wiki de desarrollo
+   - Diseño
+     - Portafolio de diseño
+     - Spirnt de diseño
+   - Ventas
+     - Activos de ventas
+     - CRM de ventas
+   - Busqueda de candidatos
+     - Guia para entrevistas
+     - Registro de contrataciones
+     - Etc
+   - RR. HH
+     - Pagina de inicio de la empresa
+     - Beneficios de los empleados
+     - ETc
+2. Uso educativos
+   - Cursos
+   - Clubs
+   - Docencia
+   - Investigacion academica
+3. Personal
+   - Pasatiempos
+   - Viajes
+   - Etc
+4. Proyectos
+   - Hoja de ruta y calendarios
+   - Registro de incidencias
+   - Etc
+5. Wiki
+   - Intranet de la empresa
+   - Comuncaciones interna y actualizaciones
+   - Etc
+7. Documentos
+   - Propuestas y presentaciones
+   - Planificacion de proyectos
+   - Etc
+
+	
+	>Solo en la primera plantilla he descrito la mayoria de subapartados, ya que como podemos ver esto son solo las plantillas que nos ofrece el propio notion, es decir, no son plantillas de la comunidad y ya tenemos cientos de plantillas
+
+Gracias a estas herramientas y la gran posibilidad que tenemos a la hora de organizar tareas no veo util seguir usando libretas para organizar un equipo y que las propias personas del equipo no esten actualizadas en todo momento, gracias a una pagina web, una persona al terminar la tarea entraria de nuevo a notion y veria la siguiente tarea asignada
+
+# MS TEAM
+
+Microsoft Teams es una tanto una aplicacion web como aplicacion de escritorio para Windows, nos permite tener chat individuales con mensajeria instatanea y tambien nos permite crear grupos para tener chats grupales instataneos y llamadas grupales.
+
+Microsoft Teams ganó una gran popularidad en los años de la pandemia, en este caso en españa gano gran popularidad en el año 2020 cuando tuvimos un confinamiento en el cual algunas personas seguian trabajando y en las cuales surjuio en muchas empresas la posibilidad de hacer teletrabajo y con el primer problema en el que se encontraron muchas empresas es que no tenian manera de comunarse con sus empleados, por ello Microsoft Teams gano gran popularidad y despues de esto se ha quedado en muchas empresas como medio comunicacion
+
+que nos permite tener grupos para tener chat comunes y llamadas grupales
+
+Microsoft Teams tiene integradas muchas aplicaciones de la propia compañia, como por ejemplo el calendario que esta vinculado con Microsoft Outlook, otra ejemplo de aplicaicon integrada es Microsfot One Drive desde el apartado de archivos que te permite almacenar un archivo y posteriormente adjuntarlo en un chat, tambien tienes la posibilidad de hacer una llamada y grabar dicha llamada y la grabacion posteriormente es guardada en Microsoft One Drive de manera automatica, tambien dentro de las propias llamas puedes compartir pantalla para mostrar a los demas lo que hacer y los demas tienen la posibilidad de solicitar el control de tu ordenador desde la propia aplicacion.
+
+Tenemos la posibilidad de instalar extensiones, 
 
 
 
