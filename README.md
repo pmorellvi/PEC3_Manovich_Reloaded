@@ -6,8 +6,6 @@ Fecha: 13/12/2023
 
 https://github.com/mgea/PEC3_Manovich_Reloaded
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
 # HIBRIDACION
 
 Vamos a analizar con las gafas de Manovich dos ejemplos de hibridacion, en este caso [NOTION.SO](https://www.notion.so/) y [MS TEAMS](https://www.microsoft.com/es-es/microsoft-teams/group-chat-software).
