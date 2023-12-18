@@ -4,9 +4,6 @@ Autor: Pablo Morell Vidal
 
 Fecha: 13/12/2023
 
-https://github.com/mgea/PEC3_Manovich_Reloaded
-
-
 # HIBRIDACION
 
 Vamos a analizar con las gafas de Manovich dos ejemplos de hibridacion, en este caso [NOTION.SO](https://www.notion.so/) y [MS TEAMS](https://www.microsoft.com/es-es/microsoft-teams/group-chat-software).
