@@ -23,27 +23,26 @@ A todo esto se le suma la posibilidad de que se puede usar de manera empresarial
 
 A estar pensado para un entorno empresarial, se puede crear diferentes tipos de tareas.
 
-1 Bloques basicos
-	 - Encabezados, Texto, Tabla
-	> - Lista enumerada, Desplegable
-	> - Divisor, Destacado, Enlace a una página
+1. Bloques basicos
+	- Encabezados, Texto, Tabla
+	- Lista enumerada, Desplegable
+	- Divisor, Destacado, Enlace a una página
+
  ![Bloques de basicos](img/bloqueBasico.jpg)
 
-Insertar imagen de bloque basic	
+2. Contenido Multimedia
+	- Imagen, Marcador Web, Video
+	- Audio, Codigo, Archivos
 
-2 Contenido Multimedia
-	> - Imagen, Marcador Web, Video
-	> - Audio, Codigo, Archivos
+3. Base de datos 
+	- Vista de tabla, Vista de tablero
+	- Vista de cronograma, Vista de galeria
+	- Divisor, destacado, enlace a una página
 
-3 Base de datos 
-	> - Vista de tabla, Vista de tablero
-	> - Vista de cronograma, Vista de galeria
-	> - Divisor, destacado, enlace a una página
-
-4 Inserciones
-	> - Archivos de google drive, Tweet, Figma
-	> - Codepen, Gitlab, Trello
-	> - Adobe XD, Jira y mas
+4. Inserciones
+	- Archivos de google drive, Tweet, Figma
+	- Codepen, Gitlab, Trello
+	- Adobe XD, Jira y mas
 
 
 Plantillas
