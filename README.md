@@ -104,7 +104,7 @@ Tenemos cientos de posibilidad a la hora elegir plantillas
 
 Gracias a estas herramientas y la gran posibilidad que tenemos a la hora de organizar tareas no veo util seguir usando libretas para organizar un equipo y que las propias personas del equipo no esten actualizadas en todo momento, gracias a una pagina web, una persona al terminar la tarea entraria de nuevo a notion y veria la siguiente tarea asignada
 
-# MS TEAM
+# MS TEAM: La hibridacion de las reuniones y del entorno empresarial
 
 Microsoft Teams es una aplicacion web, con la posibilidad de tener también la aplicación instalada en nuestro escritorio, pero también en nuestro móvil ya sea Android o IOS, nos permite tener chat individuales con mensajería instantánea con la posibilidad de crear canales específicos para debatir sobre un tema en concreto y también nos permite crear grupos para tener chats grupales instantáneos con la posibilidad de hacer llamadas grupales.
 
@@ -112,9 +112,16 @@ Microsoft Teams ganó una gran popularidad en los años de la pandemia, en este 
 
 Microsoft Teams te permite tener una llamada grupal instantánea sin necesidad de comprar nada adicional con esto generas una fluidez de información en los equipos de trabajo sin importar la ubicación aumentando así la productividad y el flujo de información en los equipos de trabajo, evitando así que se desplacen las personas para reuniones tan simples como fijar requisitos para una aplicación web.
 
-
 Microsoft Teams tiene integradas muchas aplicaciones de la propia compañía, como por ejemplo el calendario que está vinculado con Microsoft Outlook, esto quiere decir que en caso de que te inviten a una reunión a una hora a la cual ya tenías agendada otr reunión será la aplicación de correo Microsoft Outlook la que te dirá que esa hora ya está ocupada y te sugerirá una nueva hora que si esta libre, otra ejemplo de aplicación integrada es Microsfot One Drive permite almacenar un archivo y posteriormente adjuntarlo en un chat, también tienes la posibilidad de hacer una llamada y grabar dicha llamada y la grabación posteriormente es guardada en Microsoft One Drive de manera automatica, otra funcionalidad dentro de las propias llamas es la posibilidad de compartir pantalla para mostrar a los demás lo que haces y los demás tienen la posibilidad de solicitar el control de tu ordenador desde la propia aplicación, esto junto a otras integraciones de Microsoft han hecho que MS Teams sea indispensable hoy en día en muchas empresas.
 
 Microft es una empresa que pone gran ímpetu en la seguridad de sus aplicaciones, Microsoft teams incorpora la características de seguridad como el cifrado de datos o la autenticación de doble factor, hoy en día es un apartado muy importante para las empresas por la información con la que se trata en ocasiones
 
 Microsoft teams es un claro ejemplo de como la hibridación esta cada vez mas en el entorno empresarial, ya sea por la facilidad que tiene para los nuevos usuarios o por el gran valor que puede aportar a la empresa. Ha sido capaz de generar fluidez de información gracias a las reuniones instantáneas, ya que ahora se pueden hacer con muchas más frecuencia o por la gran integración que tiene con el resto de aplicaciones de entorno Microsoft 365 o por la gran seguridad que ofrece para tus archivos por esto y otras cosas no tiene rival.
+
+
+### Referencias y Bibliografía
+* **https://www.microsoft.com/es-es/microsoft-teams/security**
+* **https://www.notion.so/es-la/help/security-and-privacy**
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA
