@@ -6,6 +6,7 @@ Fecha: 13/12/2023
 
 https://github.com/mgea/PEC3_Manovich_Reloaded
 
+
 # HIBRIDACION
 
 Vamos a analizar con las gafas de Manovich dos ejemplos de hibridacion, en este caso [NOTION.SO](https://www.notion.so/) y [MS TEAMS](https://www.microsoft.com/es-es/microsoft-teams/group-chat-software).
@@ -22,23 +23,24 @@ A todo esto se le suma la posibilidad de que se puede usar de manera empresarial
 
 A estar pensado para un entorno empresarial, se puede crear diferentes tipos de tareas.
 
-- Bloques basicos
-	> - Encabezados, Texto, Tabla
+1 Bloques basicos
+	 - Encabezados, Texto, Tabla
 	> - Lista enumerada, Desplegable
 	> - Divisor, Destacado, Enlace a una página
+ ![Bloques de basicos](img/bloqueBasico.jpg)
 
 Insertar imagen de bloque basic	
 
-- Contenido Multimedia
+2 Contenido Multimedia
 	> - Imagen, Marcador Web, Video
 	> - Audio, Codigo, Archivos
 
-- Base de datos 
+3 Base de datos 
 	> - Vista de tabla, Vista de tablero
 	> - Vista de cronograma, Vista de galeria
 	> - Divisor, destacado, enlace a una página
 
-- Inserciones
+4 Inserciones
 	> - Archivos de google drive, Tweet, Figma
 	> - Codepen, Gitlab, Trello
 	> - Adobe XD, Jira y mas
@@ -100,9 +102,13 @@ Tenemos cientos de posibilidad a la hora elegir plantillas
 	
 	>Solo en la primera plantilla he descrito la mayoria de subapartados, ya que como podemos ver esto son solo las plantillas que nos ofrece el propio notion, es decir, no son plantillas de la comunidad y ya tenemos cientos de plantillas
 
+  ![Plantilla de notion](img/plantillasNotion.jpg)
+
 Gracias a estas herramientas y la gran posibilidad que tenemos a la hora de organizar tareas no veo util seguir usando libretas para organizar un equipo y que las propias personas del equipo no esten actualizadas en todo momento, gracias a una pagina web, una persona al terminar la tarea entraria de nuevo a notion y veria la siguiente tarea asignada
 
 # MS TEAM: La hibridacion de las reuniones y del entorno empresarial
+
+![img de MS teams](img/MS_teams.jpg)
 
 Microsoft Teams es una aplicacion web, con la posibilidad de tener también la aplicación instalada en nuestro escritorio, pero también en nuestro móvil ya sea Android o IOS, nos permite tener chat individuales con mensajería instantánea con la posibilidad de crear canales específicos para debatir sobre un tema en concreto y también nos permite crear grupos para tener chats grupales instantáneos con la posibilidad de hacer llamadas grupales.
 
@@ -111,6 +117,8 @@ Microsoft Teams ganó una gran popularidad en los años de la pandemia, en este 
 Microsoft Teams te permite tener una llamada grupal instantánea sin necesidad de comprar nada adicional con esto generas una fluidez de información en los equipos de trabajo sin importar la ubicación aumentando así la productividad y el flujo de información en los equipos de trabajo, evitando así que se desplacen las personas para reuniones tan simples como fijar requisitos para una aplicación web.
 
 Microsoft Teams tiene integradas muchas aplicaciones de la propia compañía, como por ejemplo el calendario que está vinculado con Microsoft Outlook, esto quiere decir que en caso de que te inviten a una reunión a una hora a la cual ya tenías agendada otr reunión será la aplicación de correo Microsoft Outlook la que te dirá que esa hora ya está ocupada y te sugerirá una nueva hora que si esta libre, otra ejemplo de aplicación integrada es Microsfot One Drive permite almacenar un archivo y posteriormente adjuntarlo en un chat, también tienes la posibilidad de hacer una llamada y grabar dicha llamada y la grabación posteriormente es guardada en Microsoft One Drive de manera automatica, otra funcionalidad dentro de las propias llamas es la posibilidad de compartir pantalla para mostrar a los demás lo que haces y los demás tienen la posibilidad de solicitar el control de tu ordenador desde la propia aplicación, esto junto a otras integraciones de Microsoft han hecho que MS Teams sea indispensable hoy en día en muchas empresas.
+
+![img de MS teams](img/calendario.jpg)
 
 Microft es una empresa que pone gran ímpetu en la seguridad de sus aplicaciones, Microsoft teams incorpora la características de seguridad como el cifrado de datos o la autenticación de doble factor, hoy en día es un apartado muy importante para las empresas por la información con la que se trata en ocasiones
 
